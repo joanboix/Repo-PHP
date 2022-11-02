@@ -1,0 +1,16 @@
+{
+    "name": "alumne/joanboix_repo-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Alumne\\JoanboixRepoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joanboix",
+            "email": "joanboix@iesebre.com"
+        }
+    ],
+    "require": {}
+}
