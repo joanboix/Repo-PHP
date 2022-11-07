@@ -2,21 +2,25 @@
 
 namespace frameWork\Database;
 
+use PDO;
+
 class Database
 {
-    public $config;
+    protected $pdo;
 
-
-    public function __construct($config)
+    public function __construct($pdo)
     {
-        $this->config = $config;
-        $this->connection = new Connection($config);
+        $this->pdo = $pdo;
     }
 
+    public function selectAll($table) {
 
-    function selectAll($table)
-    {
-        return fetchAllTasks($this->connection->connectDB($this->config));
+        $statement = $this->pdo->prepare("SELECT * FROM $table;");
+
+        $statement->execute();
+
+        return $statement->fetchAll(PDO::FETCH_CLASS);
+
     }
 
 }
