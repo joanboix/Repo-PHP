@@ -1,11 +1,11 @@
 <?php
 
-
+use Dotenv\Dotenv;
 use Framework\App;
 use frameWork\Database\Connection;
-use frameWork\Database\Database;
+use Framework\Database\Database;
 
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__.'/..');
+$dotenv = Dotenv::createImmutable(__DIR__.'/..');
 $dotenv->load();
 
 

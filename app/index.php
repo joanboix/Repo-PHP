@@ -5,8 +5,6 @@ use frameWork\Database\Database;
 
 require 'config.php';
 
-require 'app/helpers.php';
-
 require 'app/Models/Task.php';
 
 
