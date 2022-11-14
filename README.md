@@ -11,3 +11,4 @@ Codi font del screencast
 - v3.0: Video 103 Acabat (07/11/22 | 100%)
 - v4.0: Video 104 Acabat (14/11/22 | 100%)
 - v5.0: Video 105 Acabat (14/11/22 | 100%)
+- v6.0: Video 106 Acabat (14/11/22 | 100%)
