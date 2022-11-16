@@ -13,3 +13,4 @@ Codi font del screencast
 - v5.0: Video 105 Acabat (14/11/22 | 100%)
 - v6.0: Video 106 Acabat (14/11/22 | 100%)
 - v7.0.0: Video 107 Acabat (15/11/22 | 100%), Users & About per fer.
+- v7.1: Video 107 Acabat + Users Fet (16/11/22)
