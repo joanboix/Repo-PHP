@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-class Task {
+class User {
     public function __construct()    {
 
     }

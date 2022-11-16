@@ -2,8 +2,7 @@
 
 use Framework\App;
 
-$tasks = App::get('database')->selectAll('tasks');
+$users = App::get('database')->selectAll('users');
 
-$greeting = greet();
 
-require '../resources/views/index.blade.php';
+require '../resources/views/users.blade.php';
