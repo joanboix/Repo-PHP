@@ -2,6 +2,10 @@
 
 Codi font del screencast
 
+# RESULTAT FINAL
+
+Podeu veure el resultat final seguint el següent enllaç: http:
+
 # Tags
 
 - v0.1: Exemple Hello World de PHP i HTML sense MVC (10/10/22)
