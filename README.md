@@ -4,7 +4,7 @@ Codi font del screencast
 
 # RESULTAT FINAL
 
-Podeu veure el resultat final seguint el següent enllaç: http:
+Podeu veure el resultat final seguint el següent enllaç: http://phpforlaravel.joanboix.me
 
 # Tags
 
