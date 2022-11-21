@@ -18,3 +18,12 @@ Podeu veure el resultat final seguint el següent enllaç: http://phpforlaravel.
 - v6.0: Video 106 Acabat (14/11/22 | 100%)
 - v7.0.0: Video 107 Acabat (15/11/22 | 100%), Users & About per fer.
 - v7.1: Video 107 Acabat + Users Fet (16/11/22)
+-
+
+# Altres
+
+Video 108: En aquest video no em modicicat el nostre codi, simplement hem configurat el laravel forge per deixar de
+treballar en local. També hem duplicat les bases de dades que teniem fins ara, ja que també estaven en local.
+
+Video 109: En aquest video és solucionen alguns errors de configuració, però nosaltres no tenim aquests errors, per
+tant, tampoc hem modificat el codi.
