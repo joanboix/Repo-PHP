@@ -6,6 +6,15 @@ Codi font del screencast
 
 Podeu veure el resultat final seguint el següent enllaç: http://phpforlaravel.joanboix.me
 
+# NOU REPOSITORI:
+
+Fins ara hem treballat en aquest repositori, on feiem tots els canvis en local, però ara ens toca fer migracions i començar a treballar en remot i amb la forma de directoris de laravel, per tant, hem creat un nou repositori per començar gairebé des de 0.
+
+Si voleu veure les actualitzacions de la feina, podeu accedir al nou repositori mitjançant el següent enllaç: https://github.com/joanboix/php_for_laravel_devs_def
+
+Si voleu seguir els videos d'exemple a partir dels canvis de repositori, podeu entrar al canal de youtube d'acacha-dev i buscar el vídeo 10, o accedir directament a través del següent enllaç: 
+https://www.youtube.com/watch?v=W-Jh66v6gjU&list=PLyasg1A0hpk2vR_ocOHavVJiybYoB05pR&index=10
+
 # Tags
 
 - v0.1: Exemple Hello World de PHP i HTML sense MVC (10/10/22)
@@ -18,7 +27,7 @@ Podeu veure el resultat final seguint el següent enllaç: http://phpforlaravel.
 - v6.0: Video 106 Acabat (14/11/22 | 100%)
 - v7.0.0: Video 107 Acabat (15/11/22 | 100%), Users & About per fer.
 - v7.1: Video 107 Acabat + Users Fet (16/11/22)
--
+
 
 # Altres
 
